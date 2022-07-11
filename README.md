@@ -34,7 +34,7 @@ https://github.com/MrK4US4R/Fuck_ISLAMTIAIB
 
 ```
 
-####Run Script
+# Run_Script
 
 ```
 
