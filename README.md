@@ -30,7 +30,7 @@
 
 rm -rf Fuck_ISLAMTIAIB
 
-https://github.com/MrK4US4R/Fuck_ISLAMTIAIB
+git clone https://github.com/MrK4US4R/Fuck_ISLAMTIAIB
 
 ```
 
